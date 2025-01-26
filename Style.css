@@ -12,7 +12,7 @@ header {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 header img {
-    width: 150px;
+    width: 10px;
 }
 h1 {
     font-size: 5em;
@@ -54,7 +54,7 @@ footer {
     color: #333;
 }
 .social-link img {
-    width: 20px;
+    width: 10px;
     vertical-align: middle;
     margin-right: 8px;
 }
